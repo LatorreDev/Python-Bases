@@ -127,3 +127,5 @@ print ("----    ----")
 print(mi_mago.nombre, "Ataca a", mi_personaje.nombre)
 mi_mago.atacar()
 print ("----    ----")
+
+
